@@ -1,0 +1,1 @@
+2022-09-26 10:17:06,542 - D:\Desktop\code\days_code\LogUtils\Log.py[line:37] - INFO: True
