@@ -55,3 +55,5 @@ print(temp_data)
 [[0.         0.69314718 1.09861229]
  [0.         0.         1.09861229]]
 ```
+
+**具体参考:[github地址](https://github.com/ksks14/codedemo/blob/dev-lbs/bug/numpy/np_log.md)**
